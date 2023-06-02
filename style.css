@@ -95,7 +95,7 @@ body{
   color: #090039;
  }
  /*media queries*/
- @media (min-widht: 700px){
+ @media (min-width: 700px){
   body{
     padding: 8rem;
 
